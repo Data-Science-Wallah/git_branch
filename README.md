@@ -1,2 +1,2 @@
 # This video is for Git Branch
-and we are on Main branch
+and we are on Develop branch
